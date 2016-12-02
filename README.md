@@ -1,7 +1,6 @@
 # Design Principles
 
-We’re House House, a multidisciplinary design practice from Canada that collaborates with people all over the world. We love how design can help people. We’re not interested in adding to the noise — that doesn’t help anyone. We’re here to cut through the cacophony and design and build flexible, engaging websites, apps, and static design that looks great and functions in a myriad of contexts.
-
+We’re House House, a multidisciplinary design practice from Canada that collaborates with people all over the world. We love how design can help people. We’re not interested in adding to the noise — that doesn’t help anyone. We’re here to cut through the cacophony and design and build flexible, engaging websites, apps, and static design that looks great and functions in a myriad of contexts. We do that by always considering the following:
 
 
 ## Consider Everyone
