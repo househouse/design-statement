@@ -16,7 +16,7 @@ While we cannot predict an audience’s physical or emotional state, we can work
 
 We listen and learn at every stage of a project, and strive to understand as much as we can about as many disciplines as possible, all in the best interest of our clients’ audiences. And when we are ready to act, we move quickly and iterate on base work. 
 
-- Have I explored multiple avenues a solution?
+- Have I explored multiple avenues to a solution?
 - Do I have data to support my decisions?
 - Have I aligned my rationale to a real user problem?
 
@@ -32,7 +32,7 @@ We prefer to form close relationships with our clients so that we can better und
 
 ## Aim For Comprehension 
 
-We don’t cut corners: Our design should always be crafted to the best of our abilities, and we have delivered work with real polish. We should art direct and create visual design that makes others awe, but most importantly is communicates quickly, unobtrusively, and beautifully.
+We don’t cut corners: Our design should always be crafted to the best of our abilities, and we have delivered work with real polish. We should art direct and create visual design that makes others awe, but most importantly communicates quickly, unobtrusively, and beautifully.
 
 - Is every decision aligned with the end goal or high-level action?
 - Have I optimized my design for speed and efficiency?
