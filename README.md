@@ -37,3 +37,11 @@ We don’t cut corners: Our design should always be crafted to the best of our a
 - Is every decision aligned with the end goal or high-level action?
 - Have I optimized my design for speed and efficiency?
 - Have I considered the smaller details?
+
+***
+
+You might also be interested in…
+
+- [House House Code Styleguide](https://github.com/househouse/code-styleguide)
+- [House House Content Styleguide](https://github.com/househouse/content-styleguide)
+
